@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sindhura Kilaru</h1>
 <h2 align="left">About Me: </h2>
-<h3 align="left">Accomplished Front-End Developer with over 8 years of experience in crafting and optimizing user-centric web applications. Demonstrated success in collaborating with cross-functional teams to deliver innovative solutions that significantly enhance user engagement and application performance.</h3>
+<p align="left">Accomplished Front-End Developer with over 8 years of experience in crafting and optimizing user-centric web applications. Demonstrated success in collaborating with cross-functional teams to deliver innovative solutions that significantly enhance user engagement and application performance.</p>
 
 - 🔭 I’m currently working on **Travel Tales**
 
