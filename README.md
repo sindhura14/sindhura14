@@ -2,7 +2,7 @@
 <h2 align="left">About Me: </h2>
 <p align="left">Accomplished Front-End Developer with over 8 years of experience in crafting and optimizing user-centric web applications. Demonstrated success in collaborating with cross-functional teams to deliver innovative solutions that significantly enhance user engagement and application performance.</p>
 
-- 🔭 I’m currently working on **Travel Tales**
+- 🔭 I’m currently working on further enhancing my expertise and staying up-to-date with the latest industry trends and technologies
 
 - 📫 How to reach me **sindhurakilaru1@gmail.com**
 
